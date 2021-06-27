@@ -2,3 +2,20 @@ body {
   background-color: gray;
   color: white;
 }
+
+.nav-ul {
+  list-style-type: none;
+}
+
+.nav-li {
+  float: left;
+  margin-right: 10px;
+  border: 1px solid black;
+  padding: 5px;
+  color: white;
+  background-color: rgb(21, 51, 185);
+}
+
+Link {
+  text-decoration: none;
+}

@@ -9,7 +9,7 @@ const StyledLink = styled(Link)`
 
 function NavBar() {
     return(
-        <div className='container'>
+        <div className='nav-container'>
             <nav>
                 <ul className='nav-ul'>
                     <li className='nav-li'><StyledLink to='/'>Home</StyledLink></li>

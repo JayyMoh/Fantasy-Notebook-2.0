@@ -2,7 +2,7 @@ import React from 'react'
 
 function Rookie() {
     return(
-        <div className='container'>
+        <div className='heading-container'>
             <h1>Rookies Page</h1>
         </div>
     )

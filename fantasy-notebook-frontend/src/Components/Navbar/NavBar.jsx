@@ -4,7 +4,7 @@ import styled from 'styled-components'
 
 const StyledLink = styled(Link)`
     text-decoration: none;
-    color: white;
+    color: rgb(2, 198, 178);
 `
 
 function NavBar() {

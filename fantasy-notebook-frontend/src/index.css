@@ -1,5 +1,5 @@
 body {
-  background-color: gray;
+  background-color: rgb(28, 24, 40);
   color: white;
 }
 
@@ -10,10 +10,9 @@ body {
 .nav-li {
   float: left;
   margin-right: 10px;
-  border: 2px solid black;
+  /* border: 2px solid black; */
   padding: 7px;
-  color: white;
-  background-color: rgb(21, 51, 185);
+  background-color: rgb(37, 65, 78);
   border-radius: 5px;
 }
 
@@ -23,9 +22,9 @@ body {
   top: 0;
   left: 0;
   position: fixed;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   width: 100%;
-  background-color: white;
+  background-color: rgb(31, 36, 49);
 }
 
 .heading-container {

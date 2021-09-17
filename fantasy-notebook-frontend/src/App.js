@@ -8,9 +8,9 @@ import EditVeteran from './Components/Veterans/EditVeteran'
 import Rookie from './Components/Rookies/Rookie'
 import AddRookie from './Components/Rookies/AddRookie'
 import EditRookie from './Components/Rookies/EditRookie'
-import Home from './Components/Home'
+import Home from './Components/Home/Home'
 import { Route, Link } from 'react-router-dom'
-import NavBar from './Components/NavBar'
+import NavBar from './Components/Navbar/NavBar'
 import { Styled } from 'styled-components'
 
 function App() {
